@@ -1,0 +1,22 @@
+{
+  "name": "rideshare",
+  "version": "1.0.0",
+  "description": "A simple web app for ride sharing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekettleison/rideshare.git"
+  },
+  "author": "thekettleison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thekettleison/rideshare/issues"
+  },
+  "homepage": "https://github.com/thekettleison/rideshare#readme",
+  "dependencies": {
+    "hyperapp": "^2.0.22"
+  }
+}
