@@ -1,4 +1,5 @@
 import { h, app } from "hyperapp";
+import './scss/index.scss'
 const { h, app } = hyperapp;
 
 const state = {
